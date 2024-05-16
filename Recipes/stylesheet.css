@@ -18,3 +18,9 @@ ol {
 li {
     text-align: left;
 }
+
+.photos {
+    display: flex;
+    justify-content: space-between;
+    
+}
